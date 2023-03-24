@@ -1,0 +1,207 @@
+<!--...-->
+<!--The comment tag is used to insert comments in the source code-->
+<!DOCTYPE>
+<!--All HTML documents must start with a <!DOCTYPE> declaration.
+The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect.-->
+<a></a>
+<!--The <a> tag defines a hyperlink, which is used to link from one page to another
+    The most important attribute of the <a> element is the href attribute, which indicates the link's destination. -->
+        <abbr></abbr>
+        <!--The <abbr> tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".-->
+    
+                <address></address>
+                <!--The <address> tag defines the contact information for the author/owner of a document or an article.
+                    The text in the <address> element usually renders in italic, and browsers will always add a line break before and after the <address> element.-->                  
+<area>
+<!--The <area> tag defines an area inside an image map (an image map is an image with clickable areas).
+<area> elements are always nested inside a <map> tag.-->
+<article></article>
+    <!--The <article> tag specifies independent, self-contained content.An article should make sense on its own and it should be possible to distribute it independently from the rest of the site.
+
+Potential sources for the <article> element:
+
+Forum post
+Blog post
+News story-->
+<aside></aside>
+    <!--The <aside> tag defines some content aside from the content it is placed in.
+
+The aside content should be indirectly related to the surrounding content.-->
+<audio></audio>
+<!--The <audio> tag is used to embed sound content in a document, such as music or other audio streams.
+
+-->
+<b></b>
+<!--The <b> tag specifies bold text without any extra importance.-->
+<base>
+<!--The <base> tag specifies the base URL and/or target for all relative URLs in a document.
+
+The <base> tag must have either an href or a target attribute present, or both.
+
+There can only be one single <base> element in a document, and it must be inside the <head> element.-->
+    <bdi></bdi>
+    <!--BDI stands for Bi-Directional Isolation.
+
+The <bdi> tag isolates a part of text that might be formatted in a different direction from other text outside it.-->
+
+<bdo></bdo>
+    <!--BDO stands for Bi-Directional Override.
+
+The <bdo> tag is used to override the current text direction-->
+
+<blockquote></blockquote>
+    <!--The <blockquote> tag specifies a section that is quoted from another source.
+
+Browsers usually indent <blockquote> elements-->
+<body></body>
+<!--The <body> tag defines the document's body.
+
+The <body> element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, -->
+<br>
+<!--The <br> tag inserts a single line break.
+
+The <br> tag is useful for writing addresses or poems.
+
+The <br> tag is an empty tag which means that it has no end tag-->
+<button></button>
+    <!--The <button> tag defines a clickable button.-->
+<canvas></canvas>
+    <!--The <canvas> tag is used to draw graphics, on the fly, via scripting (usually JavaScript).
+
+The <canvas> tag is transparent, and is only a container for graphics, you must use a script to actually draw the graphics-->
+<caption></caption>
+    <!--The <caption> tag defines a table caption.
+
+The <caption> tag must be inserted immediately after the <table> tag.-->
+<cite></cite>
+    <!--The <cite> tag defines the title of a creative work-->
+<code></code>
+    <!--The <code> tag is used to define a piece of computer code-->
+<col>
+<!--The <col> tag specifies column properties for each column within a <colgroup> element.
+
+The <col> tag is useful for applying styles to entire columns, instead of repeating the styles for each cell, for each row.-->
+<colgroup></colgroup>
+    <!--The <colgroup> tag specifies a group of one or more columns in a table for formatting.
+
+The <colgroup> tag is useful for applying styles to entire columns, instead of repeating the styles for each cell, for each row.-->
+<data></data>
+    <!--used to add a machine-readable translation of a given content.-->
+<datalist></datalist>
+    <!--The <datalist> tag is used to provide an "autocomplete" feature for <input> elements-->
+<dd></dd>
+    <!--used to describe a term/name in a description list-->
+<del></del>
+    <!--The <del> tag defines text that has been deleted from a document-->
+<details></details>
+    <!--The <details> tag specifies additional details that the user can open and close on demand 
+        often used to create an interactive widget that the user can open and close-->
+<dfn></dfn>
+    <!--The <dfn> tag stands for the "definition element", and it specifies a term that is going to be defined within the content.-->
+<dialog></dialog>
+    <!--The <dialog> tag defines a dialog box or subwindow.
+
+The <dialog> element makes it easy to create popup dialogs and modals on a web page.-->
+    <div></div>
+    <!--The <div> tag defines a division or a section in an HTML document-->
+<dl></dl>
+    <!--The <dl> tag defines a description list-->
+<dt></dt>
+    <!--The <dt> tag defines a term/name in a description list-->
+<em></em>
+    <!-- is used to define emphasized text-->
+<embed>
+    <!--defines a container for an external resource, such as a web page, a picture, a media player, or a plug-in application-->
+<fieldset></fieldset>
+    <!--is used to group related elements in a form-->
+<figcaption></figcaption>
+    <!-- defines a caption for a <figure> element.-->
+<figure></figure>
+    <!--The <figure> tag specifies self-contained content, like illustrations, diagrams, photos, code listings-->
+<footer></footer>
+    <!--defines a footer for a document or section-->
+<form></form>
+<!-- is used to create an HTML form for user input-->
+<hr>
+<!--defines a thematic break in an HTML page
+most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.-->
+<i></i>
+    <!--defines a part of text in an alternate voice or mood
+    often used to indicate a technical term, a phrase from another language, a thought, a ship name-->
+<iframe></iframe>
+    <!--The <iframe> tag specifies an inline frame.
+is used to embed another document within the current HTML document
+-->
+<input>
+<!--The <input> tag specifies an input field where the user can enter data.-->
+<ins></ins>
+    <!--defines a text that has been inserted into a document. Browsers will usually underline inserted text-->
+<kbd></kbd>
+    <!--is used to define keyboad-->
+<label></label>
+    <!-- defines a label for several elements:-->
+<legend></legend>
+    <!--defines a caption for the <fieldset> element-->
+<li></li>
+    <!--The <li> tag defines a list item.-->
+<link>
+<!--defines the relationship between the current document and an external resource.
+used to link to external style sheets or to add a favicon to your website-->
+<main></main>
+    <!--The content inside the <main> element should be unique to the document. It should not contain any content that is repeated across documents 
+        such as sidebars, navigation links, copyright information, site logos, and search forms.
+
+-->
+<map></map>
+    <!--is used to define an image map. An image map is an image with clickable areas-->
+<mark></mark>
+    <!--defines text that should be marked or highlighted-->
+<meta>
+<!--defines metadata about an HTML document. Metadata is data (information) about data-->
+<meter></meter>
+    <!--defines a scalar measurement within a known range, or a fractional value. -->
+<nav>
+<!-- defines a set of navigation links-->
+<noscript></noscript>
+    <!--used in both <head> and <body>. When used inside <head>, the <noscript> element could only contain <link>, <style>, and <meta> elements.-->
+<object></object>
+<!-- tag defines a container for an external resource.
+
+-->
+<ol></ol>
+<!--defines an ordered list
+ An ordered list can be numerical or alphabetical.
+-->
+<optgroup></optgroup>
+<!-- is used to group related options in a <select> element (drop-down list)-->
+<option></option>
+<!--defines an option in a select list-->
+<output></output>
+<!--is used to represent the result of a calculation (like one performed by a script).-->
+<param>
+<!--is used to define parameters for an <object> element.-->
+<picture></picture>
+<!--use of the <picture> element will be for art direction in responsive designs. -->
+<pre>
+    <!--defines preformatted text.-->
+<progress></progress>
+<!--represents the completion progress of a task-->
+<q></q>
+<!--defines a short quotation-->
+<rp></rp>
+    <!--used to provide parentheses around a ruby text, to be shown by browsers that do not support ruby annotations-->
+<rt></rt>
+<!--defines an explanation or pronunciation of characters (for East Asian typography) in a ruby annotation-->
+<ruby></ruby>
+    <!-- specifies a ruby annotation.-->
+<s></s>
+<!--The <s> tag specifies text that is no longer correct, accurate or relevant. The text will be displayed with a line through it.
+
+The <s> tag should not be used to define deleted text in a document, use the <del> tag for that.
+
+-->
+<samp></samp>
+<!-- is used to define sample output from a computer program. The content inside is displayed in the browser's default monospace font.-->
+<script>
+    <!-- is used to define sample output from a computer program -->
+ 
